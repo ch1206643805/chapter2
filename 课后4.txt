@@ -1,0 +1,8 @@
+1.
+
+A->AB->ABC->ABCD->ABCDA->ABCDAB->ABC->ABCD->ABCDA->ABCDAB
+
+2.
+
+退栈会按照后进先出原则出战，即栈顶先出。
+一致返回是什么时候返回。。。。。是最后点吗。。。。
